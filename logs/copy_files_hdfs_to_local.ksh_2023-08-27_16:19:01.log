@@ -1,0 +1,4 @@
+copy_files_hdfs_to_local.ksh Started...: Sun 27 Aug 2023 04:19:01 PM IST
+get: `/home/rajender/Downloads/pysparkTutorial/output/dimension_city/': No such file or directory
+get: `/home/rajender/Downloads/pysparkTutorial/output/fact/': No such file or directory
+copy_files_hdfs_to_local.ksh is Completed...: Sun 27 Aug 2023 04:19:03 PM IST
